@@ -39,11 +39,12 @@ Tools I've built for Obsidian to make tracking and journaling actually enjoyable
 | Project | Description |
 |---|---|
 | [Weekly Radar](https://github.com/Baldev8910/Weekly-Radar) | Spider radar chart for weekly activity tracking |
-| [Heatmap Calendar with Seasons](https://github.com/Baldev8910/Heatmap-Calendar-Seasons) | Activity heatmap with seasonal theming |
+| [Heatmap Calendar with Seasons](https://github.com/Baldev8910/Heatmap-Calendar--With-Seasons-) | Activity heatmap with seasonal theming |
 | [Ranked Habit Tracker](https://github.com/Baldev8910/Ranked-Habit-Tracker) | Valorant-inspired habit tracker with a ranking system |
-| [Global Fireworks](https://github.com/Baldev8910/Global-Fireworks) | Fireworks animation inside Obsidian |
-| [Cycling Journal Template](https://github.com/Baldev8910/Cycling-Journal) | Structured cycling log template for Obsidian |
-| [Daily Journal Template](https://github.com/Baldev8910/Daily-Journal) | Clean daily journal template for Obsidian |
+| [Global Fireworks](https://github.com/Baldev8910/global-fireworks) | Fireworks animation inside Obsidian |
+| [Cycling Journal Template](https://github.com/Baldev8910/Cycling-Template-for-Obsidian) | Structured cycling log template for Obsidian |
+| [Daily Journal Template](https://github.com/Baldev8910/Daily-Journal-Template-for-Obsidian) | Clean daily journal template for Obsidian |
+| [Event Planner](https://github.com/Baldev8910/event-planner) | Event Planner for Obsidian |
 
 ---
 
